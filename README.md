@@ -35,9 +35,12 @@ By the end of the training you will be able to:
 - Manage navigation through Drupalʼs menu system.
 - Content references and relationships.
 - Manage content layout.
+- Use Display modes
+- Twig in Drupal
 - Customize content administration.
 - Configure both controlled vocabularies and free tagging with Taxonomy.
 - Configure your site to improve search, through the use of URL path configuration
 - Be able to configure automatically generated thumbnails.
 - Know how to create advanced listings of content.
+- Drupal 8 configuration management
 - Maintain a secure and speedy website.
