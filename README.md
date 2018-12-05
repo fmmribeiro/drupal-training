@@ -36,7 +36,7 @@ By the end of the training you will be able to:
 - Content references and relationships.
 - Manage content layout.
 - Use Display modes
-- Twig in Drupal
+- Use Twig to display content in Drupal
 - Customize content administration.
 - Configure both controlled vocabularies and free tagging with Taxonomy.
 - Configure your site to improve search, through the use of URL path configuration
