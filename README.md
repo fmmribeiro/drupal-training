@@ -16,7 +16,7 @@ The ideal accompaniment is to follow this with a one day introduction to using t
 Experience with web development. This course is suitable both for users who are new to Drupal and those who want to broaden their Drupal skills.
 Lando(docker) installed
 
-## Objetives:
+## Objectives:
 
 - Navigate the administration area to manage essential tasks
 - Configure and set up a basic Drupal site.
